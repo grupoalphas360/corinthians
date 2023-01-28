@@ -1,0 +1,48 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_C8404DD4_EC46_F019_41DB_AD0C17587322.mp3Url = media/audio_CD7C3BED_EC47_B00B_41C4_CAF6795F6D41_pt.mp3
+
+### Title
+panorama_E35B0AAD_EC24_7AB4_41E8_B4F23F76BBC4.label = 1
+panorama_E690BF40_EC24_1BED_41DC_8FE455E39702.label = 10
+panorama_E6907C31_EC23_FDAF_41E2_91093AED09A0.label = 11
+panorama_E68F6743_EC3C_0BEC_41EC_0019A59EAFE5.label = 12
+panorama_E68F8257_EC3C_0593_41E4_82EB2B04243D.label = 13
+panorama_E68F8B93_EC3C_3B6C_4192_EF6B8615E6B9.label = 14
+panorama_E68FE48E_EC3C_0D74_4196_C222AE3523D0.label = 15
+panorama_E68FBD8B_EC3C_1F7C_41E1_E6F37726D393.label = 16
+panorama_E68F8664_EC3C_0DB5_41AA_F1FA6001B04B.label = 17
+panorama_E6ED4F39_EC24_1B9F_41E3_EF614C88DFEA.label = 2
+panorama_E690FBB4_EC24_3A95_41E0_EE757D523B0C.label = 3
+panorama_F641A7C5_EC45_9078_41E4_AF6849963B0C.label = 4
+panorama_E690E2A3_EC24_0AB3_41CF_A30CFB6F6339.label = 5
+panorama_E690B9AC_EC24_06B4_41A2_7E8BC8CE8AE4.label = 7
+panorama_E690861B_EC24_0D9C_41E8_346C0F0BA0B1.label = 8
+panorama_E6907302_EC24_0B6C_41E8_47D25A599ED0.label = 9
+
+## Skin
+
+### Image
+Image_FF35575E_EC43_9008_41C7_39459398CD64_mobile.url = skin/Image_FF35575E_EC43_9008_41C7_39459398CD64_mobile_pt.png
+Image_FF35575E_EC43_9008_41C7_39459398CD64.url = skin/Image_FF35575E_EC43_9008_41C7_39459398CD64_pt.png
+Image_FFA340A9_EC45_F008_41B0_F6E7F202922B_mobile.url = skin/Image_FFA340A9_EC45_F008_41B0_F6E7F202922B_mobile_pt.png
+Image_FFA340A9_EC45_F008_41B0_F6E7F202922B.url = skin/Image_FFA340A9_EC45_F008_41B0_F6E7F202922B_pt.png
+
+### Tooltip
+IconButton_E37EBBBF_EC42_F008_4192_8612E85D1762.toolTip = Foto Anterior
+IconButton_E37EBBBF_EC42_F008_4192_8612E85D1762_mobile.toolTip = Foto Anterior
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_FC236392_EC46_F018_41D9_B9157C3DA6CF_mobile.toolTip = Próxima Foto
+IconButton_FC236392_EC46_F018_41D9_B9157C3DA6CF.toolTip = Próxima Foto
+
+## Tour
+
+### Description
+tour.description = Conheça em 360° graus a decoração natalina do Parque São Jorge. Trabalho realizado pela equipe Natal e Pronto em 2022.
+
+### Title
+tour.name = Decoração de Natal Parque São Jorge - Corinthians - Natal e Pronto
